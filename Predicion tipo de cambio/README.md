@@ -6,7 +6,7 @@
 
 1. Descripción Detallada del Proyecto
 
-Este proyecto de aprendizaje automático, se centra en analizar la relación histórica entre los
+Este proyecto de aprendizaje automático, se centra en predecir las relaciones histórica entre los
 volúmenes de otorgamiento de créditos al sector privado y las fluctuaciones de la moneda
 extranjera. Utilizando un conjunto de datos que detalla la evolución mensual y anual de los
 préstamos hipotecarios y prendarios (desglosados por destino como construcción, refacción,
