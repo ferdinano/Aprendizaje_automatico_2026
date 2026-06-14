@@ -3,7 +3,7 @@
 ## 1. Análisis Exploratorio y Regresión Lineal
 [cite_start]**Observaciones de la gráfica:** 
 
-![grafico de Regresion lineal](Regresion Lineal.png)
+(https://github.com/ferdinano/Aprendizaje_automatico_2026/blob/main/Predicion%20tipo%20de%20cambio/reports/figures/Regresion%20Lineal.png)
 
 [cite_start]El gráfico de dispersión relaciona los montos de préstamos para "Construcción" (eje X) con el "Tipo de Cambio" (eje Y)[cite: 1]. [cite_start]Se observa claramente la formación de distintos grupos o "regímenes" económicos (marcados por colores: violeta, rojo y verde claro)[cite: 1]. 
 * [cite_start]**Análisis:** La relación no es estrictamente lineal en todo el dominio[cite: 1]. [cite_start]Se ve un crecimiento exponencial o escalonado[cite: 1]. [cite_start]Cuando el tipo de cambio se dispara (puntos rojos y verdes, superando los $800), el volumen de préstamos nominales en construcción aumenta significativamente, lo cual tiene sentido en un contexto inflacionario donde los montos en pesos crecen[cite: 1].
