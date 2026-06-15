@@ -1,18 +1,18 @@
-# PRESTAMOS HIPOTECARIOS Y PRENDARIOS AL SECTOR PRIVADO NO FINANCIERO (1) - DESAGREGACION POR DESTINO DEL PRÉSTAMO.
-## Gerencia de Estadísticas Monetarias - Banco Central de la República Argentina 
+# PRESTAMOS HIPOTECARIOS Y PRENDARIOS AL SECTOR PRIVADO NO FINANCIERO - DESAGREGACION POR DESTINO DEL PRÉSTAMO.
+
 ### 1-	Préstamos hipotecarios y prendarios (capitales exclusivamente, no incluye ajustes e intereses devengados) en la totalidad de las entidades financieras del país, desagregados según que el destino de los mismos sea alguno de los siguientes:
 ### Hipotecarios
 
 ### Vivienda
-  Construcción
-  Refacción
-  Adquisición
-     de unidades nuevas
-  Otro
+  Construcción,  
+  Refacción,  
+  Adquisición,  
+     de unidades nuevas,  
+  Otro,  
 
 ### Prendarios
 
-  Automotores
+  Automotores,  
   Maquinaria y equipo
   Otro
 
