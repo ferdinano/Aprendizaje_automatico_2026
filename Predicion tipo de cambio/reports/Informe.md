@@ -61,4 +61,4 @@ La relación no es estrictamente lineal en todo el dominio.Se ve un crecimiento 
 
 ## 5. Conclusión Final y Recomendaciones
 
-El ecosistema desarrollado es muy potente. Combinar la capacidad predictiva de los algoritmos supervisados (SVR y Árboles) con las reglas de negocio y clasificación de riesgo arrojadas por **K-Means**, resulta en una herramienta completa que no solo predice números, sino que dicta acciones concretas (como exigir más garantías o acortar plazos) basándose en los datos históricos del mercado.
+El ecosistema desarrollado es muy potente. Combinar la capacidad predictiva de los algoritmos supervisados (SVR y Árboles) con las reglas de negocio y clasificación de riesgo arrojadas por **K-Means**, resulta ser una herramienta completa que no solo predice números, sino que dicta acciones concretas (como exigir más garantías o acortar plazos) basándose en los datos históricos del mercado.
