@@ -16,7 +16,7 @@ cotización del dólar.
 
 2. Formulación de Objetivos
 
-Objetivo General:
+Objetivo General:   
 • Desarrollar y evaluar un modelo de aprendizaje automático capaz de predecir el "Tipo
 de cambio y tasa de interes" mensual basándose en los volúmenes y de “préstamos hipotecarios y
 prendarios otorgados en el mercado”.   
