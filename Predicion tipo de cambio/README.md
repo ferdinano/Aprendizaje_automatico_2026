@@ -18,8 +18,10 @@ cotización del dólar.
 
 Objetivo General:
 • Desarrollar y evaluar un modelo de aprendizaje automático capaz de predecir el "Tipo
-de cambio" mensual basándose en los volúmenes y “tipos de préstamos hipotecarios y
-prendarios otorgados en el mercado” a partir del tipo de cambio.
+de cambio y tasa de interes" mensual basándose en los volúmenes y de “préstamos hipotecarios y
+prendarios otorgados en el mercado”.
+• Desarrollar y evaluar un modelo de aprendizaje automático capaz de predecir los "Creditos de hipotecarios y prendarios" a partir de la tasa de interes y tipo de cambio" cotizados en el mercado”.
+• Desarrollar y evaluar un modelo de aprendizaje automático capaz de clasificar los distintos escenarios de los creditos y poder tomar decisiones financieras.
 
 Objetivos Específicos:
 
@@ -51,13 +53,14 @@ comportamiento del consumidor.
 
 El problema abordado se define como un Problema de Regresión. Esto se debe a que la
 variable objetivo (Target) que el modelo intentará predecir es el "Tipo de cambio", la cual es
-una variable cuantitativa continua, y no una categoría discreta o etiqueta.
+una variable cuantitativa continua, y como modelo para al toma de decisiones empresariales se realziara una prueba con un modelo de clasificacion.
 
 5. Modelos que se podrían utilizar
 
 Para capturar las diferentes naturalezas matemáticas de los datos económicos, se implementarán y compararán los siguientes modelos de regresión:
   a- Support Vector Machine
   b- Arbol de Decision
+Para capturar las diferentes naturalezas de los datos económicos, se implementarán un modelo de clasificaciòn:
   c- K-Means
 
 
