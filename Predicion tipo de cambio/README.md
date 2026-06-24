@@ -27,9 +27,9 @@ Objetivos Específicos:
 
 • Identificar qué líneas de financiamiento (por ejemplo, préstamos para maquinarias vs.
 adquisición de automotores) presentan un mayor poder predictivo sobre los
-movimientos del tipo de cambio.
+movimientos del tipo de cambio.  
 • Comparar el rendimiento de al menos tres métodos de aprendizaje automático para
-determinar cuál se adapta mejor a la naturaleza volátil de los datos financieros.
+determinar cuál se adapta mejor a la naturaleza volátil de los datos financieros.  
 • Generar una herramienta analítica que permita ilustrar de forma práctica y basada en
 datos las dinámicas macroeconómicas locales y el impacto de las políticas crediticias.
 
@@ -39,29 +39,29 @@ El mercado financiero argentino presenta una dinámica macroeconómica muy parti
 donde el tipo de cambio actúa como un termómetro de las expectativas y la liquidez general.
 Históricamente, el acceso al crédito a largo plazo (como los hipotecarios) y a mediano plazo
 (prendarios para bienes de capital o consumo) fluctúa fuertemente en función del escenario
-cambiario.
-La relevancia de este problema radica en su doble utilidad:
+cambiario.  
+La relevancia de este problema radica en su doble utilidad:  
 • Analítica y Financiera: Permite observar si una expansión o contracción en líneas de
 crédito específicas (como el freno en préstamos en dólares o el aumento en préstamos
 para la construcción en pesos) actúa como un indicador temprano (o rezagado) de
-saltos devaluatorios.
+saltos devaluatorios.  
 • Económica: Abordar este problema con datos reales permite materializar conceptos
 macroeconómicos complejos. Como, la deuda privada, la escasez de divisas y el
-comportamiento del consumidor.
-
-4. Definición del Tipo de Problema
-
+comportamiento del consumidor.  
+  
+4. Definición del Tipo de Problema  
+  
 El problema abordado se define como un Problema de Regresión. Esto se debe a que la
 variable objetivo (Target) que el modelo intentará predecir es el "Tipo de cambio", la cual es
-una variable cuantitativa continua, y como modelo para al toma de decisiones empresariales se realziara una prueba con un modelo de clasificacion.
-
-5. Modelos que se podrían utilizar
-
-Para capturar las diferentes naturalezas matemáticas de los datos económicos, se implementarán y compararán los siguientes modelos de regresión:
-  a- Support Vector Machine
-  b- Arbol de Decision
-Para capturar las diferentes naturalezas de los datos económicos, se implementarán un modelo de clasificaciòn:
-  c- K-Means
+una variable cuantitativa continua, y como modelo para al toma de decisiones empresariales se realziara una prueba con un modelo de clasificacion.  
+  
+5. Modelos que se podrían utilizar  
+  
+Para capturar las diferentes naturalezas matemáticas de los datos económicos, se implementarán y compararán los siguientes modelos de regresión:  
+  a- Support Vector Machine  
+  b- Arbol de Decision  
+Para capturar las diferentes naturalezas de los datos económicos, se implementarán un modelo de clasificaciòn:  
+  c- K-Means  
 
 
 ## Project Organization
