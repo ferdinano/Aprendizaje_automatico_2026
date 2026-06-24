@@ -19,8 +19,8 @@ cotización del dólar.
 Objetivo General:
 • Desarrollar y evaluar un modelo de aprendizaje automático capaz de predecir el "Tipo
 de cambio y tasa de interes" mensual basándose en los volúmenes y de “préstamos hipotecarios y
-prendarios otorgados en el mercado”.
-• Desarrollar y evaluar un modelo de aprendizaje automático capaz de predecir los "Creditos de hipotecarios y prendarios" a partir de la tasa de interes y tipo de cambio" cotizados en el mercado”.
+prendarios otorgados en el mercado”.   
+• Desarrollar y evaluar un modelo de aprendizaje automático capaz de predecir los "Creditos de hipotecarios y prendarios" a partir de la tasa de interes y tipo de cambio" cotizados en el mercado”.   
 • Desarrollar y evaluar un modelo de aprendizaje automático capaz de clasificar los distintos escenarios de los creditos y poder tomar decisiones financieras.
 
 Objetivos Específicos:
